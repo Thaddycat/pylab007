@@ -1,15 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="55f91fd0-563b-49a3-a519-c52a1bba0fc9" name="Changes" comment="" />
+    <list default="true" id="55f91fd0-563b-49a3-a519-c52a1bba0fc9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch.11ex.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch.11ex.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch.11excersise1.md" beforeDir="false" afterPath="$PROJECT_DIR$/ch.11excersise1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch11ex3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch11ex4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11ex5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch11ex5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11ex6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch11ex6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11ex7.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch11ex7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1.md" beforeDir="false" afterPath="$PROJECT_DIR$/exercise1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise2.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise3.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise4.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercixe 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercixe 5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercize6.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercize6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Thaddycat"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Thaddycat/pylab007.git",
+    "accountId": "e555b510-cea8-4b99-9b6e-36f2701ce597"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -21,6 +60,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.ch.11ex.2.executor": "Run",
+    "Python.ch11ex4.executor": "Run",
+    "Python.ch11ex5.executor": "Run",
+    "Python.ch11ex6.executor": "Run",
+    "Python.ch11ex7.executor": "Run",
+    "Python.exercise2.executor": "Run",
+    "Python.exercise3.executor": "Run",
+    "Python.exercise4.executor": "Run",
+    "Python.exercixe 5.executor": "Run",
+    "Python.exercize6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
